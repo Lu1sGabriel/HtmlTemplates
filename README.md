@@ -2,13 +2,13 @@
 
 Bem-vindo ao meu repositório de templates HTML! Aqui você encontrará uma coleção de templates prontos para uso, desenvolvidos com HTML, CSS e JavaScript. Esses templates são ideais para estudos e podem ser usados como ponto de partida para criar seus próprios projetos.
 
-## Índice
+## 🗂️ Índice
 
 - [Tópicos](#tópicos)
 - [Templates](#templates)
 - [Contatos](#contatos)
 
-## Tópicos
+## 📑 Tópicos
 
 Aqui estão os tópicos abordados neste repositório, cada um com um emoji correspondente:
 
@@ -16,7 +16,7 @@ Aqui estão os tópicos abordados neste repositório, cada um com um emoji corre
 - 🎨 **CSS**: O que é CSS? (CSS é a linguagem de estilo usada para definir a aparência das páginas HTML)
 - 💡 **JavaScript**: O que é JavaScript? (JavaScript é uma linguagem de programação usada para adicionar interatividade e funcionalidade às páginas da web)
 
-## Templates
+## 🖌️ Templates
 
 Aqui estão os templates disponíveis neste repositório:
 
@@ -25,7 +25,7 @@ Aqui estão os templates disponíveis neste repositório:
 
 Sinta-se à vontade para explorar, estudar e usar esses templates como base para seus próprios projetos.
 
-## Contatos
+## 📞 Contatos
 
 Se você tiver alguma dúvida, sugestão ou apenas quiser entrar em contato, você pode me encontrar através dos seguintes meios:
 
