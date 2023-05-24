@@ -2,6 +2,12 @@
 
 Bem-vindo ao meu repositório de templates HTML! Aqui você encontrará uma coleção de templates prontos para uso, desenvolvidos com HTML, CSS e JavaScript. Esses templates são ideais para estudos e podem ser usados como ponto de partida para criar seus próprios projetos.
 
+## Índice
+
+- [Tópicos](#tópicos)
+- [Templates](#templates)
+- [Contatos](#contatos)
+
 ## Tópicos
 
 Aqui estão os tópicos abordados neste repositório, cada um com um emoji correspondente:
